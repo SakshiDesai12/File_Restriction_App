@@ -77,4 +77,3 @@ This project demonstrates:
 
 ---
 
-Save this as `README.md` in your GitHub repository, and it should meet the requirements specified. Let me know if you need any further customization!
